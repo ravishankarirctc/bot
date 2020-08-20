@@ -1,0 +1,42 @@
+{
+  "query1": "select 640, 'INR 281,686,000.00', '26-Jul-2020 to 13-Aug-2020' from dual",
+  "userRole": "select INDIA_ACCESS, SK_ACCESS from xx_user_details_tbl where email = ",
+  "query2": "select 640 , 'INR 281,686,000.00' ,'26-Jul-2020 to 13-Aug-2020' from dual",
+  "validateUser":"select 2 from dual -- ",
+  "USDAmnt": "select 640, 'USD 3,768,000.00', '26-Jul-2020 to 13-Aug-2020' from dual",
+  "custNameAction": "select 1, 'INR 132,778.79', '26-Jul-2020 to 13-Aug-2020' from dual -- $CustomerName$",
+  "FTWZ":"select 1 , 'INR 3,800,067.27', '26-Jul-2020 to 13-Aug-2020' from dual",
+  "Meraki":"select 123 , 1230000, '26-Jul-2020 to 13-Aug-2020' from dual",
+  "ServiceOnly":"select 123 , 1230000, '26-Jul-2020 to 13-Aug-2020' from dual",
+  "PS":"select 123 , 1230000, '26-Jul-2020 to 13-Aug-2020' from dual",
+  "SLCDTA":"select 34 , 'INR 104,992,000.00', '26-Jul-2020 to 13-Aug-2020' from dual",
+  
+  "ThisMonthCCIPL":"select 1234 , 12300004, 'mock data' from dual",
+  "ThisMonthUSDAmnt": "select 1234 , 12300004, 'mock data' from dual",
+  "ThisMonthcustNameAction": "select 1234 , 12300004, 'mock data' from dual -- $CustomerName$",
+  "ThisMonthFTWZ":"select 222 , 3333, 'Jul-2020' from dual",
+  "ThisMonthMeraki":"select 123 , 1230000, 'Mock Data' from dual",
+  "ThisMonthServiceOnly":"select 123 , 1230000, 'Mock Data' from dual",
+  "ThisMonthPS":"select 123 , 1230000, 'Mock Data' from dual",
+  "ThisMonthSLCDTA":"select 123 , 1230000, 'Mock Data' from dual",
+  
+  "ThisQuarterCCIPL":"select 1234 , 12300004, 'mock data' from dual",
+  "ThisQuarterUSDAmnt": "select 1234 , 12300004, 'mock data' from dual",
+  "ThisQuartercustNameAction": "select 1234 , 12300004, 'mock data' from dual -- $CustomerName$",
+  "ThisQuarterFTWZ":"select 222 , 3333, 'Jul-2020' from dual",
+  "ThisQuarterMeraki":"select 123 , 1230000, 'Mock Data' from dual",
+  "ThisQuarterServiceOnly":"select 123 , 1230000, 'Mock Data' from dual",
+  "ThisQuarterPS":"select 123 , 1230000, 'Mock Data' from dual",
+  "ThisQuarterSLCDTA":"select 123 , 1230000, 'Mock Data' from dual",
+  
+  "LastYearThisQuarterCCIPL":"select 1234 , 12300004, 'mock data' from dual",
+  "LastYearThisQuarterUSDAmnt": "select 1234 , 12300004, 'mock data' from dual",
+  "LastYearThisQuartercustNameAction": "select 1234 , 12300004, 'mock data' from dual -- $CustomerName$",
+  "LastYearThisQuarterFTWZ":"select 222 , 3333, 'Jul-2020' from dual",
+  "LastYearThisQuarterMeraki":"select 123 , 1230000, 'Mock Data' from dual",
+  "LastYearThisQuarterServiceOnly":"select 123 , 1230000, 'Mock Data' from dual",
+  "LastYearThisQuarterPS":"select 123 , 1230000, 'Mock Data' from dual",
+  "LastYearThisQuarterSLCDTA":"select 123 , 1230000, 'Mock Data' from dual"
+  
+  
+} 

@@ -1,0 +1,7 @@
+{
+
+  "webhookUrl": "http://bot-botnodejs.apps.ca-central-1.starter.openshift-online.com",
+  "token": "NDk0NDI0MzctOTI1Ny00YWY0LTk1MmUtZmIyNDliM2NlZjdiZGIwNzQ3OTQtNzdh_PF84_consumer",
+  "restrictedToEmailDomains":"cisco.com"
+  
+}
